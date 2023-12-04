@@ -1,4 +1,11 @@
 ### Hi there 👋
+I am a CS student at Northwestern University. I am interested in full stack development, computer systems, and applications of machine learning.
+
+I am currently working on:
+- Clash of Clans Upgrade Tracker using Machine Learning
+- Catnap: A gamified sleep tracking app
+
+Feel free to reach out with any questions!
 
 <!--
 **kliu3638/kliu3638** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
