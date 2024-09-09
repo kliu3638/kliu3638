@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am a CS student at Northwestern University and a previous SWE intern at Norhtrop Grumman who is interested in back end development and low level systems.
+I am a CS student at Northwestern University and a previous SWE intern at Northrop Grumman who is interested in back end development and low level systems.
 
 I am currently working on:
 - Circa Sleep: Socialized sleep tracker app for building consistent sleep habits
